@@ -7,11 +7,11 @@
 
 ## Technologies Used ##
   
-  Python: The core programming language used for scripting and automation. <br>
-  PySpark: An open-source unified analytics engine for large-scale data processing. <br>
-  PostgreSQL: A powerful, open-source object-relational database system. <br>
-  SQLAlchemy: A SQL toolkit and Object-Relational Mapping (ORM) library for Python. <br>
-  Matplotlib: A Python 2D plotting library for data visualization. <br>
+  **Python:** The core programming language used for scripting and automation. <br>
+  **PySpark:** An open-source unified analytics engine for large-scale data processing. <br>
+  **PostgreSQL:** A powerful, open-source object-relational database system. <br>
+  **SQLAlchemy:** A SQL toolkit and Object-Relational Mapping (ORM) library for Python. <br>
+  **Matplotlib:** A Python 2D plotting library for data visualization. <br>
 
 ## Project Structure ##
 ```
