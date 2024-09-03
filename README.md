@@ -65,3 +65,7 @@
     - Create a database named NewDatabase.
     - Update the connection details (user, password, endpoint) in the main.py script.
 
+4. ### Run the result using Juypter notebook ###
+5. ### View Results ###
+    - The results will be stored in the PostgreSQL database. You can visualize the data using the provided matplotlib scripts.
+
