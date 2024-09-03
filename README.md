@@ -1,6 +1,6 @@
 **#Movie Ratings Analysis Using PySpark and PostgreSQL**
 
-** ##Project Overview ## **
+## Project Overview ##
   This project aims to analyze movie ratings using Apache Spark for data processing and PostgreSQL for data storage. 
   The goal is to gain insights into movie ratings, including average ratings by movie, the most rated movies, and average ratings by genre and year. 
   The project is implemented using PySpark, a powerful tool for distributed data processing, and PostgreSQL, a reliable and widely-used relational database management system.
