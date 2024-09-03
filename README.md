@@ -84,7 +84,7 @@ This project demonstrates the application of data engineering concepts using PyS
 
 <img width="421" alt="Screenshot 2024-09-03 at 11 14 54 AM" src="https://github.com/user-attachments/assets/d204d9b0-fdfa-4ed8-a489-3aadcbb99b61"> <br>
 
-- Shows the creation of the tables and all of the tables created.
+- Shows the creation of the tables and all of the columns created.
 
 <img width="1440" alt="Screenshot 2024-09-03 at 11 50 06 AM" src="https://github.com/user-attachments/assets/51585a3d-aca3-492f-920d-214ab7cd535c"> <br>
 
