@@ -53,6 +53,15 @@
 
 ## How to download the project ## 
 1. ### Clone the Repository ###
-   ``` git clone https://github.com/yourusername/movieratingsanalysis.git
+   ```
+       git clone https://github.com/yourusername/Movie-Ratings-Analysis-Using-PySpark-and-PostgreSQL.git
        cd movieratingsanalysis
+   ```
+2. ### Install your dependencies ###
+   - pip install pyspark : To download pyspark.
+  
+3. ### Set Up PostgreSQL
+    - Ensure PostgreSQL is installed and running on your machine.
+    - Create a database named NewDatabase.
+    - Update the connection details (user, password, endpoint) in the main.py script.
 
