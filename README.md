@@ -54,7 +54,7 @@
 1. ### Clone the Repository ###
    ```
        git clone https://github.com/yourusername/Movie-Ratings-Analysis-Using-PySpark-and-PostgreSQL.git
-       cd movieratingsanalysis
+       cd to wherever the cloned repo is
    ```
 1.1 ##Install Juypter notebook
     - pip install jupyterlab : Work on the project on Juypter notebook.
