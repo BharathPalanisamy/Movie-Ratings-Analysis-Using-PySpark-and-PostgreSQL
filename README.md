@@ -18,7 +18,7 @@
   ├── ml-latest-small/          # Directory containing the movie ratings dataset
   │       ├── movies.csv
   │       ├── ratings.csv
-  ├── First_pyspark_to_postgresql.ipnyb                       # Main script for executing the data analysis pipeline
+  ├── First_pyspark_to_postgresql.ipynb                       # Main script for executing the data analysis pipeline
   ├── README.md                     # Project documentation
 ```
 ## Data Engineering Concepts Used ##
