@@ -18,14 +18,14 @@
   Matplotlib: A Python 2D plotting library for data visualization.
 
 ## Project Structure ##
-  ├── data/
+  ```├── data/
       ├── ml-latest-small/          # Directory containing the movie ratings dataset
   │       ├── movies.csv
   │       ├── ratings.csv
   ├── main.py                       # Main script for executing the data analysis pipeline
   ├── README.md                     # Project documentation
   └── requirements.txt              # List of dependencies
-
+```
 
 
 
