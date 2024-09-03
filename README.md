@@ -68,4 +68,7 @@
 4. ### Run the result using Juypter notebook ###
 5. ### View Results ###
     - The results will be stored in the PostgreSQL database. You can visualize the data using the provided matplotlib scripts.
-
+6. ### Future Enhancements ### 
+    - Scalability: Implementing the project in a distributed environment using AWS services like S3, EMR, and RDS.
+    - Real-time Analysis: Extending the project to perform real-time analysis using streaming data and tools like Apache Kafka.
+    - Advanced Analytics: Integrating machine learning models to predict movie ratings based on user behavior and other factors.
