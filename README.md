@@ -14,7 +14,8 @@
   Matplotlib: A Python 2D plotting library for data visualization. <br>
 
 ## Project Structure ##
-  ```├── data/
+```
+  ├── data/
       ├── ml-latest-small/          # Directory containing the movie ratings dataset
   │       ├── movies.csv
   │       ├── ratings.csv
