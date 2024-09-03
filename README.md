@@ -23,8 +23,7 @@
 ```
 ## Data Engineering Concepts Used ##
 1. #### Data ingestion ####
-
-Data is loaded from CSV files into PySpark DataFrames. The movies.csv file contains movie details, while ratings.csv includes user ratings for each movie. The data is read into PySpark DataFrames using the spark.read.csv() method.
+    Data is loaded from CSV files into PySpark DataFrames. The movies.csv file contains movie details, while ratings.csv includes user ratings for each movie. The data is read into     PySpark DataFrames using the spark.read.csv() method.
 
 2. 
 
