@@ -95,7 +95,7 @@ This project demonstrates the application of data engineering concepts using PyS
 <img width="1440" alt="Screenshot 2024-09-03 at 11 50 06 AM" src="https://github.com/user-attachments/assets/51585a3d-aca3-492f-920d-214ab7cd535c"> <br>
 
 - Shows tables and columns within the tables to show that the pyspark code created columns.
-- query Outputs the results of the first table. 
+- Query Outputs the results of the first table. 
 
 
 
