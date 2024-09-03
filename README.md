@@ -56,8 +56,11 @@
        git clone https://github.com/yourusername/Movie-Ratings-Analysis-Using-PySpark-and-PostgreSQL.git
        cd movieratingsanalysis
    ```
+1.1 ##Install Juypter notebook
+    - pip install jupyterlab : Work on the project on Juypter notebook.
+
 2. ### Install your dependencies ###
-   - pip install pyspark : To download pyspark.
+    - pip install pyspark : To download pyspark.
   
 3. ### Set Up PostgreSQL
     - Ensure PostgreSQL is installed and running on your machine.
@@ -65,13 +68,15 @@
     - Update the connection details (user, password, endpoint) in the main.py script.
 
 4. ### Run the result using Juypter notebook ###
-5. ### View Results ###
+    - 
+
+6. ### View Results ###
     - The results will be stored in the PostgreSQL database. You can visualize the data using the provided matplotlib scripts.
 
 ## Future Enhancements ##
-  - **Scalability:**  Implementing the project in a distributed environment using AWS services like S3, EMR, and RDS.
-  - **Real-time Analysis:**  Extending the project to perform real-time analysis using streaming data and tools like Apache Kafka.
-  - **Advanced Analytics:**  Integrating machine learning models to predict movie ratings based on user behavior and other factors.
+    - **Scalability:**  Implementing the project in a distributed environment using AWS services like S3, EMR, and RDS.
+    - **Real-time Analysis:**  Extending the project to perform real-time analysis using streaming data and tools like Apache Kafka.
+    - **Advanced Analytics:**  Integrating machine learning models to predict movie ratings based on user behavior and other factors.
 
 ## Conclusion ## 
 This project demonstrates the application of data engineering concepts using PySpark and PostgreSQL. It showcases how to ingest, clean, transform, and store large datasets, providing valuable insights into movie ratings. The project serves as a strong foundation for more complex data engineering tasks, such as building scalable data pipelines and performing advanced analytics.
