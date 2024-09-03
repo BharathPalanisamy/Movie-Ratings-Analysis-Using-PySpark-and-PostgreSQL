@@ -6,6 +6,7 @@
   The project is implemented using PySpark, a powerful tool for distributed data processing, and PostgreSQL, a reliable and widely-used relational database management system.
 
 **##Technologies Used**
+  
   Python: The core programming language used for scripting and automation.
   PySpark: An open-source unified analytics engine for large-scale data processing.
   PostgreSQL: A powerful, open-source object-relational database system.
