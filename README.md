@@ -34,18 +34,18 @@
     - Normalizing Data Formats: Genres are converted to lowercase for uniformity.
 
 3. #### Data Merging ####
-  - The movie ratings and movie details DataFrames are merged using the movieId as the key.
-  - This combined DataFrame enables analysis that requires both movie details and ratings.
+    - The movie ratings and movie details DataFrames are merged using the movieId as the key.
+    - This combined DataFrame enables analysis that requires both movie details and ratings.
 
 4. #### Aggregation and Analysis ####
-- Various aggregation operations are performed to extract meaningful insights:
+  - Various aggregation operations are performed to extract meaningful insights:
     - Average Ratings for Each Movie: The average rating is calculated for each movie using the groupBy and agg functions.
     - Top 10 Movies with Most Ratings: Movies with the highest number of ratings are identified using the count function and sorted in descending order.
     - Average Rating by Genre: The genres are split into individual entries, and the average rating is calculated for each genre.
     - Average Rating by Year: The release year is extracted from movie titles, and the average rating for each year is computed.
 
 5. #### Data Visualization
-- The project includes visualization of key findings using Matplotlib:
+  - The project includes visualization of key findings using Matplotlib:
     - Top 10 Most Rated Movies: A horizontal bar chart showing the top 10 movies based on the number of ratings.
     - Average Rating by Year: A plot showing the average rating of movies by their release year.
 
