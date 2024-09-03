@@ -8,13 +8,9 @@
 ## Technologies Used ##
   
   Python: The core programming language used for scripting and automation.
-  
   PySpark: An open-source unified analytics engine for large-scale data processing.
-  
   PostgreSQL: A powerful, open-source object-relational database system.
-  
-  SQLAlchemy: A SQL toolkit and Object-Relational Mapping (ORM) library for Python.
-  
+  SQLAlchemy: A SQL toolkit and Object-Relational Mapping (ORM) library for Python. 
   Matplotlib: A Python 2D plotting library for data visualization.
 
 ## Project Structure ##
@@ -24,9 +20,9 @@
   │       ├── ratings.csv
   ├── main.py                       # Main script for executing the data analysis pipeline
   ├── README.md                     # Project documentation
-  └── requirements.txt              # List of dependencies
 ```
-
+## Data Engineering Concepts Used ##
+1. Data ingestion
 
 
 
