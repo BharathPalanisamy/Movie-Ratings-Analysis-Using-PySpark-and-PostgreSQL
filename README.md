@@ -45,9 +45,9 @@
       - Average Rating by Year: The release year is extracted from movie titles, and the average rating for each year is computed.
 
 5. #### Data Visualization
-  - The project includes visualization of key findings using Matplotlib:
-    - Top 10 Most Rated Movies: A horizontal bar chart showing the top 10 movies based on the number of ratings.
-    - Average Rating by Year: A plot showing the average rating of movies by their release year.
+    - The project includes visualization of key findings using Matplotlib:
+      - Top 10 Most Rated Movies: A horizontal bar chart showing the top 10 movies based on the number of ratings.
+      - Average Rating by Year: A plot showing the average rating of movies by their release year.
 
 
 ## How to download the project ## 
