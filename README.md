@@ -5,7 +5,7 @@
   The goal is to gain insights into movie ratings, including average ratings by movie, the most rated movies, and average ratings by genre and year. 
   The project is implemented using PySpark, a powerful tool for distributed data processing, and PostgreSQL, a reliable and widely-used relational database management system.
 
-##Technologies Used##
+## Technologies Used ##
   
   Python: The core programming language used for scripting and automation.
   
