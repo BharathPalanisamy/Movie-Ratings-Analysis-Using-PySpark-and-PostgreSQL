@@ -78,9 +78,9 @@
 This project demonstrates the application of data engineering concepts using PySpark and PostgreSQL. It showcases how to ingest, clean, transform, and store large datasets, providing valuable insights into movie ratings. The project serves as a strong foundation for more complex data engineering tasks, such as building scalable data pipelines and performing advanced analytics.
 
 ## Project Pictures of the database ## 
-<img width="432" alt="Pictureforgithub" src="https://github.com/user-attachments/assets/8fd6e16c-2c96-4cc7-992e-590a83fc4c7d">
-<img width="421" alt="Screenshot 2024-09-03 at 11 14 54 AM" src="https://github.com/user-attachments/assets/d204d9b0-fdfa-4ed8-a489-3aadcbb99b61">
-<img width="1440" alt="Screenshot 2024-09-03 at 11 50 06 AM" src="https://github.com/user-attachments/assets/51585a3d-aca3-492f-920d-214ab7cd535c">
+<img width="432" alt="Pictureforgithub" src="https://github.com/user-attachments/assets/8fd6e16c-2c96-4cc7-992e-590a83fc4c7d"> <br>
+<img width="421" alt="Screenshot 2024-09-03 at 11 14 54 AM" src="https://github.com/user-attachments/assets/d204d9b0-fdfa-4ed8-a489-3aadcbb99b61"> <br>
+<img width="1440" alt="Screenshot 2024-09-03 at 11 50 06 AM" src="https://github.com/user-attachments/assets/51585a3d-aca3-492f-920d-214ab7cd535c"> <br>
 
 
 
