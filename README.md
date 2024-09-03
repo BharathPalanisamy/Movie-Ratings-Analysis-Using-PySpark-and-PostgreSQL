@@ -27,9 +27,13 @@
     - The data is read into PySpark DataFrames using the spark.read.csv() method. <br>
 
 2. #### Data Cleaning and Transformation ####
-Data cleaning is an essential step to ensure data quality and consistency. 
+- Data cleaning is an essential step to ensure data quality and consistency. 
   - The following cleaning operations are performed:
     - Removing Duplicates: Duplicate records are dropped to avoid biased analysis.
     - handling Missing Values: Null ratings are replaced with a default value, and missing movie titles or genres are filled with a placeholder.
     - Normalizing Data Formats: Genres are converted to lowercase for uniformity.
+
+3. #### Data Merging ####
+- The movie ratings and movie details DataFrames are merged using the movieId as the key.
+- This combined DataFrame enables analysis that requires both movie details and ratings.
 
