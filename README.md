@@ -1,4 +1,4 @@
-**#Movie Ratings Analysis Using PySpark and PostgreSQL**
+# Movie Ratings Analysis Using PySpark and PostgreSQL #
 
 ## Project Overview ##
   This project aims to analyze movie ratings using Apache Spark for data processing and PostgreSQL for data storage. 
