@@ -29,9 +29,9 @@
 2. #### Data Cleaning and Transformation ####
     - Data cleaning is an essential step to ensure data quality and consistency. 
       - The following cleaning operations are performed:
-        - Removing Duplicates: Duplicate records are dropped to avoid biased analysis.
-        - handling Missing Values: Null ratings are replaced with a default value, and missing movie titles or genres are filled with a placeholder.
-        - Normalizing Data Formats: Genres are converted to lowercase for uniformity.
+        - **Removing Duplicates:** Duplicate records are dropped to avoid biased analysis.
+        - **handling Missing Values:** Null ratings are replaced with a default value, and missing movie titles or genres are filled with a placeholder.
+        - **Normalizing Data Formats:** Genres are converted to lowercase for uniformity.
 
 3. #### Data Merging ####
     - The movie ratings and movie details DataFrames are merged using the movieId as the key.
@@ -46,8 +46,8 @@
 
 5. #### Data Visualization
     - The project includes visualization of key findings using Matplotlib:
-      - Top 10 Most Rated Movies: A horizontal bar chart showing the top 10 movies based on the number of ratings.
-      - Average Rating by Year: A plot showing the average rating of movies by their release year.
+      - **Top 10 Most Rated Movies:** A horizontal bar chart showing the top 10 movies based on the number of ratings.
+      - **Average Rating by Year:** A plot showing the average rating of movies by their release year.
 
 
 ## How to download the project ## 
