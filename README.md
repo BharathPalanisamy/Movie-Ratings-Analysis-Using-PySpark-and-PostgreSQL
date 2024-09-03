@@ -15,8 +15,7 @@
 
 ## Project Structure ##
 ```
-  ├── data/
-      ├── ml-latest-small/          # Directory containing the movie ratings dataset
+├── ml-latest-small/          # Directory containing the movie ratings dataset
   │       ├── movies.csv
   │       ├── ratings.csv
   ├── main.py                       # Main script for executing the data analysis pipeline
