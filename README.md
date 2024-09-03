@@ -68,10 +68,11 @@
     - Update the connection details (user, password, endpoint) in the main.py script.
 
 4. ### Run the result using Juypter notebook ###
-    - 
+    - Click kernel and select "Restart and run all"
 
 6. ### View Results ###
     - The results will be stored in the PostgreSQL database. You can visualize the data using the provided matplotlib scripts.
+    - The results of the graphs will be outputted in juypter notebook.
 
 ## Future Enhancements ##
 
